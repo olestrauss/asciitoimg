@@ -1,6 +1,6 @@
 # Tool to convert images to ASCII art, and then convert that ASCII art to an image
 
-Uses (https://github.com/LeandroBarone/python-ascii_magic)[ascii_magic] and (https://openai.com/)[DALLE].
+Uses [ascii_magic](https://github.com/LeandroBarone/python-ascii_magic) and [DALLE](https://openai.com/).
 
 Nothing more than a tool to create some interesting images, with some resemblance to the original.
 
